@@ -5,20 +5,23 @@ html {
   box-sizing: inherit;
 }
 
-.orden-0{ font-family: 'Lato', sans-serif;;}
+.orden-0{font-family: 'DM Sans', sans-serif;}
 
 .orden-0{background-image: url(asset/walpaper\ -3.jpg);}
 
-.formato-1{background-image: url(asset/walpaper-11.jpg);width: 1280;height: 400px;justify-content: center;align-items: center;display: flex;flex-direction: column;flex-wrap: wrap;}
+.formato-1{background-image: url(asset/16000.png);justify-content: center;align-items: center;display: flex;flex-direction: column;flex-wrap: wrap;background-repeat: no-repeat;
+  ;max-width: 100%;width: 1280px;height: 400px;background-size: cover;}
 
 
 .formato-0{align-items: center;}
 
 .orden{width: 380px;height: 160px;}
 
-.formato-2{background-color: rgb(50, 231, 44);color: rgb(249, 247, 247);margin: 0%;color: rgb(0, 0, 0);}
+.formato-2{background-color: blueviolet;color: rgb(249, 247, 247);margin: 0%;color: rgb(255, 255, 255);}
 
-.orden-9{background-color: blueviolet;color: aliceblue;}
+.formato-2{}
+
+.orden-9{background-color: rgb(15, 13, 15);color: aliceblue;}
 
 .formato-3{width:auto;height:80px;;color: azure;display: flex;align-items: center;justify-content: center;}
 
@@ -95,4 +98,23 @@ flex-direction: column;width: auto; background-color: rgb(70, 252, 115);color: r
 
 
 .formato-21{width: 600px;flex-direction: row; display: flex;align-items: center;justify-content:center;}
+
+.inicio-1{display: flex;margin-top: 30px;}
+.inicio-2{color:aliceblue;text-align: center;}
   
+.formato-22{display: flex;width: 1280px;flex-direction: row;margin:0.8em;align-items: center;justify-content: center;}
+
+@media(max-width:960px){.formato-22{width: 300px; justify-content:center;align-items: center;}
+}
+
+.orden-17{width: 400px;}
+@media(max-width:960px){.orden-17{width: 250px; justify-content:center;align-items: center;}
+}
+
+.formato-23{display: flex;align-items: center;justify-content: center;height: 100px;background-color: fuchsia;text-align: center;}
+
+.formato-24{}
+
+.formato-25{display: flex;align-items: center;justify-content: center;height: 100px;background-color: rgb(79, 240, 20);text-align: center;}
+
+.formato-26{display: flex;align-items: center;justify-content: center;height: 100px;background-color: rgb(208, 177, 19);text-align: center;}
