@@ -19,7 +19,6 @@ html {
 
 .formato-2{background-color: blueviolet;color: rgb(249, 247, 247);margin: 0%;color: rgb(255, 255, 255);}
 
-.formato-2{}
 
 .orden-9{background-color: rgb(15, 13, 15);color: aliceblue;}
 
@@ -31,7 +30,6 @@ height: 450px;text-align: center;justify-content: center;margin-top: 20px;}
 
 .orden-3{width: 1280PX;height: 550PX;}
 
-.orden-2{}
 
 .orden-4{display: flex;justify-content: center; align-items: center;margin-top: 0.5em;color: rgb(255, 255, 255);background-color: blueviolet;border-radius: 0.8em;margin: 50px; }
 
@@ -91,7 +89,6 @@ flex-direction: column;width: auto; background-color: rgb(70, 252, 115);color: r
 
 
 
-.formato-20{}
 @media(max-width:960px) {.formato-20{display: flex;align-items: center;justify-content: center;flex-direction: column;}}
 
 
@@ -113,7 +110,7 @@ flex-direction: column;width: auto; background-color: rgb(70, 252, 115);color: r
 
 .formato-23{display: flex;align-items: center;justify-content: center;height: 100px;background-color: fuchsia;text-align: center;}
 
-.formato-24{}
+
 
 .formato-25{display: flex;align-items: center;justify-content: center;height: 100px;background-color: rgb(79, 240, 20);text-align: center;}
 
